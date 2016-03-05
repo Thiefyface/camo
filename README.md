@@ -1,0 +1,1 @@
+Just a basic binary encoder/decoder for AV avoidance. Very very basic. 
